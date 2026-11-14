@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinfin-legal.github.io/lorena-suarez-abogada/sitemap.xml
